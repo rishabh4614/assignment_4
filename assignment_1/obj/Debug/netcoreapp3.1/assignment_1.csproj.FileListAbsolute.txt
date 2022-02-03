@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\bin\Debug\netcoreapp3.1\assignment_1.exe
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\bin\Debug\netcoreapp3.1\assignment_1.deps.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\bin\Debug\netcoreapp3.1\assignment_1.runtimeconfig.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\bin\Debug\netcoreapp3.1\assignment_1.runtimeconfig.dev.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\bin\Debug\netcoreapp3.1\assignment_1.dll
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\bin\Debug\netcoreapp3.1\assignment_1.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\obj\Debug\netcoreapp3.1\assignment_1.csproj.AssemblyReference.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\obj\Debug\netcoreapp3.1\assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\obj\Debug\netcoreapp3.1\assignment_1.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\obj\Debug\netcoreapp3.1\assignment_1.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\obj\Debug\netcoreapp3.1\assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\obj\Debug\netcoreapp3.1\assignment_1.dll
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\obj\Debug\netcoreapp3.1\assignment_1.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_4\assignment_1\obj\Debug\netcoreapp3.1\assignment_1.genruntimeconfig.cache
